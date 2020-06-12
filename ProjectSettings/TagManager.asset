@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Pig
+  - Brick
+  - Bird
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 1949884211
+    locked: 0
+  - name: Forest
+    uniqueID: 2412495615
+    locked: 0
+  - name: Ground
+    uniqueID: 3569165603
+    locked: 0
+  - name: Brick
+    uniqueID: 4218484399
+    locked: 0
+  - name: Pigs
+    uniqueID: 3088204399
+    locked: 0
+  - name: Birds
+    uniqueID: 456694165
+    locked: 0
+  - name: GUI
+    uniqueID: 1757593759
+    locked: 0
