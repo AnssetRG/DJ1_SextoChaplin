@@ -8,7 +8,7 @@ public enum SlingShotState
 public enum GameState
 {
     Start,
-    BirdMoving,
+    BirdMovingToSlingShot,
     Playing,
     Won,
     Lost
